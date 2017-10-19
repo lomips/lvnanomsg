@@ -1,0 +1,13 @@
+Nanomsg for LabVIEW (LVNANOMSG)
+================================================================================
+The LabVIEW package labview-nanomsg (Nanomsg for LabVIEW) was created by
+
+  Chen Yucong <slaoub@gmail.com>
+
+This package wraps functionality of the nanomsg library (http://nanomsg.org),
+which is released under MIT.
+
+
+The icons used in this library come from the "Silk" icon set by Mark James,
+available from http://www.famfamfam.com/lab/icons/silk/, and used under
+Creative Commons 2.5
