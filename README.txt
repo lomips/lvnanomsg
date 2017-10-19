@@ -3,6 +3,12 @@
 ================================================================================
         created and maintained by Chen Yucong, slaoub@gmail.com
 ================================================================================
+The source codes and documentations for labview-nanomsg are based on LabVIEW
+bindings for the ZeroMQ project (https://sourceforge.net/projects/labview-zmq).
+So this may be problematic on copyright and author list. I would like to express
+the thanks to the members of labview-zmq project. I also welcome comments or
+suggestions  for correcting the copyright and author list information.
+================================================================================
 
 NANOMSG is a great procotol for communication using a variety of
 paradigms, providing easy solutions for many-many data sharing (e.g. publishing,
@@ -11,16 +17,9 @@ subscribing and routing).
 LabVIEW-NANOMSG (LVNANOMSG) provides enables LabVIEW users to take advantage of these
 techniques.
 
-Installation is handled by the VI Package Manager (VIPM) available from
-http://jkisoft.com/vipm/ (the free community version works fine).
-
-Simply open the most recent VIP file in the package manager and click "install".
-
 Further platform-specific instructions are below.
 
-
 ***** WINDOWS INSTALLATION *****
-
 
 ***** LINUX INSTALLATION *****
 
