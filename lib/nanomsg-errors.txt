@@ -1,0 +1,114 @@
+﻿<?XML Version="1.0">
+<nidocument>
+<nicomment>
+nanomsg socket library error codes
+</nicomment>
+<nierror code="156384712">
+Unknown nanomsg error
+</nierror>
+<nierror code="156384713">
+ENOTSUP: Operation not supported
+</nierror>
+<nierror code="156384714">
+EPROTONOSUPPORT: Protocol not supported
+</nierror>
+<nierror code="156384715">
+ENOBUFS: No buffer space available
+</nierror>
+<nierror code="156384716">
+ENETDOWN: Network is down
+</nierror>
+<nierror code="156384717">
+EADDRINUSE: Address already in use
+</nierror>
+<nierror code="156384718">
+EADDRNOTAVAIL: Cannot assign requested address(Address not available)
+</nierror>
+<nierror code="156384719">
+ECONNREFUSED: Connection refused
+</nierror>
+<nierror code="156384720">
+EINPROGRESS: Operation now in progress
+</nierror>
+<nierror code="156384721">
+ENOTSOCK: Socket operation on non-socket
+</nierror>
+<nierror code="156384722">
+EAFNOSUPPORT: Address family not supported by protocol
+</nierror>
+<nierror code="156384723">
+EPROTO: Protocol error
+</nierror>
+<nierror code="156384724">
+EAGAIN: Resource temporarily unavailable
+</nierror>
+<nierror code="156384725">
+EBADF: Bad file descriptor
+</nierror>
+<nierror code="156384726">
+EINVAL: Invalid argument
+</nierror>
+<nierror code="156384727">
+EMFILE: Too many open sockets
+</nierror>
+<nierror code="156384728">
+EFAULT: Bad address
+</nierror>
+<nierror code="156384729">
+EACCES: Permission denied
+</nierror>
+<nierror code="156384730">
+ENETRESET: Network dropped connection on reset
+</nierror>
+<nierror code="156384731">
+ENETUNREACH: Network is unreachable
+</nierror>
+<nierror code="156384732">
+EHOSTUNREACH: No route to host(Host is unreachable)
+</nierror>
+<nierror code="156384733">
+ENOTCONN: Transport endpoint is not connected
+</nierror>
+<nierror code="156384734">
+EMSGSIZE: Message too long
+</nierror>
+<nierror code="156384735">
+ETIMEDOUT: Connection timed out
+</nierror>
+<nierror code="156384736">
+ECONNABORTED: Software caused connection abort
+</nierror>
+<nierror code="156384737">
+ECONNRESET: Connection reset by peer
+</nierror>
+<nierror code="156384738">
+ENOPROTOOPT: Protocol not available
+</nierror>
+<nierror code="156384739">
+EISCONN: Socket is connected
+</nierror>
+<nierror code="156384740">
+ESOCKTNOSUPPORT: Socket is not supported
+</nierror>
+<nierror code="156384752">
+EBUSY: No such device
+</nierror>
+<nierror code="156384753">
+ENODEV: No such device
+</nierror>
+<nierror code="156384754">
+EINTR: Interrupted system call
+</nierror>
+<nierror code="156384755">
+ENOENT: No such file or directory
+</nierror>
+<nierror code="156384756">
+ENOMEM: Cannot allocate memory
+</nierror>
+<nierror code="156384765">
+ETERM: Context was terminated
+</nierror>
+<nierror code="156384766">
+EFSM: Operation cannot be accomplished in current state
+</nierror>
+</nidocument>
