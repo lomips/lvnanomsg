@@ -6,8 +6,8 @@
 The source codes and documentations for labview-nanomsg are based on LabVIEW
 bindings for the ZeroMQ project (https://sourceforge.net/projects/labview-zmq).
 So this may be problematic on copyright and author list. I would like to express
-the thanks to the members of labview-zmq project. I also welcome comments or
-suggestions  for correcting the copyright and author list information.
+my thanks to the members of labview-zmq project. I also welcome comments or
+suggestions for correcting the copyright and author list information.
 ================================================================================
 
 NANOMSG is a great procotol for communication using a variety of
