@@ -1,7 +1,8 @@
 /*
  * NANOMSG_LABVIEW :: an interface between NANOMSG and LabVIEW
  * This helper DLL handles clean-up to prevent crashing and hanging
- * in LabVIEW because of NANOMSG's designed behaviour
+ * in LabVIEW because of NANOMSG's designed behaviour.
+ * nanomsg_labview.c is based on zmq_labview.c created by Martijn Jasperse.
  *
  * Created by Chen Yucong, slaoub@gmail.com
  */
